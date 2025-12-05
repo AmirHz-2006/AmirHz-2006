@@ -1,6 +1,10 @@
-## About me :
+# 👋 Hallo, ich bin Amir!
 
+💡 Ein neugieriger Programmierungslerner und IT-Praktikant mit Abitur in Mathematik.
+Ich habe Leidenschaft ,mich mit Coden zu befassen und gemeinsam innovative Software zu entwickeln.
 
+🌐 Teamorientiert und Mehrsprachig (Deutsch, Englisch, Persisch).
+ 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amir.x.hsz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amirhossein-hosseinzadeh-2006de) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amir.py.hosseinzade@gmail.com) 
 
@@ -13,5 +17,16 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AmirHz-2006&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 📂 Projekte
+
+- 🌐 **Portfolio Website (HTML & CSS)** – Moderne zweisprachige Portfolio-Seite mit responsivem Design und Icon-Bibliotheken  
+- 🗂️ **ToDoList (Java Swing)** – Aufgabenverwaltung mit GUI, inkl. Hinzufügen, Bearbeiten, Löschen und Markieren von Aufgaben   
+- 🎓 **Student Management System (Java Swing)** – GUI zur Verwaltung von Studentendaten  
+- 🎮 **Guess the Number Game (Python Tkinter)** – interaktives Zahlenratespiel mit Schwierigkeitsstufen  
+- 🧮 **Calculator (Python Tkinter)** – grafischer Taschenrechner mit Fehlerbehandlung
+- 
+
+## 🌐 Portfolio: [Dein Portfolio-Link hier]
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
