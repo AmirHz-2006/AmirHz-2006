@@ -1,6 +1,7 @@
 # 👋 Hallo, ich heiße Amir!
 
 💡 Ein neugieriger Programmierungslerner und IT-Praktikant mit Fokus auf Anwendungsentwicklung und Abitur in Mathematik.
+
 Ich habe Leidenschaft ,mich mit Coden zu befassen und gemeinsam innovative Software zu entwickeln.
 
 🌐 Teamorientiert und Mehrsprachig (Deutsch, Englisch, Persisch).
