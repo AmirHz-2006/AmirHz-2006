@@ -1,4 +1,4 @@
-# 👋 Hallo, ich bin Amir!
+# 👋 Hallo, ich heiße Amir!
 
 💡 Ein neugieriger Programmierungslerner und IT-Praktikant mit Abitur in Mathematik.
 Ich habe Leidenschaft ,mich mit Coden zu befassen und gemeinsam innovative Software zu entwickeln.
